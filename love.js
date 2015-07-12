@@ -10,20 +10,20 @@ function f()
 {
     if(love==1)
         {
-            Bn.style.top=90;
-            Bn.style.left=500;
+            document.getElementById('Bn').style.top = "90px";
+            document.getElementById('Bn').style.left="500px";
             love=2;
         }
     else if(love==2)
         {
-            Bn.style.top=90;
-            Bn.style.left=50;
+            document.getElementById('Bn').style.top="90px";
+            document.getElementById('Bn').style.left="50px";
             love=3;
         }
     else if(love==3)
         {
-            Bn.style.top=235;
-            Bn.style.left=360;
+            document.getElementById('Bn').style.top="235px";
+            document.getElementById('Bn').style.left="360px";
             love=1;
         }
 }
