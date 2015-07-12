@@ -27,4 +27,3 @@ function f()
             love=1;
         }
 }
-swal("Good job!", "You clicked the button!", "success")
