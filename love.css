@@ -19,4 +19,13 @@ h1{
     left:220px; top:175px;
     width:auto;
     height:210px;
+    color:white;
+    font-weight: bold;
+}
+body{
+    background: url(" http://i.imgur.com/5EcGrqx.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }

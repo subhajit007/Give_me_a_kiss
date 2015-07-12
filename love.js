@@ -2,8 +2,9 @@ var love=1;
 
 function f1()
 {
-    alert("WOW! Give me a kiss ");
+    sweetAlert("Then Give Me A Kiss ");
 }
+
 
 function f()
 {
@@ -26,3 +27,4 @@ function f()
             love=1;
         }
 }
+swal("Good job!", "You clicked the button!", "success")
