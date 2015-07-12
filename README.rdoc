@@ -1,0 +1,8 @@
+Basic Javascript from Naughty instinct.
+
+Used sweetalert min file for alert only.
+http://t4t5.github.io/sweetalert
+
+
+Have Fun with my app
+https://jitkisser.herokuapp.com
