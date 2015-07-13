@@ -1,4 +1,4 @@
-Basic Javascript from Naughty instinct.
+Basic Javascript in a mischievous and creative way.
 
 Used sweetalert min file for alert only.
 http://t4t5.github.io/sweetalert
